@@ -23,7 +23,7 @@ Clone the repository and run the app using Flutter.
 
 ## Development Progress
 
-In the early stages of development. Check the [Issues](issues) section for tasks.
+In the early stages of development. Check the [Issues](https://github.com/Itz-Shubham/flutter_minimalist_phone_launcher/issues) section for tasks.
 
 ## Contributing
 
