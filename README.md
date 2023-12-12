@@ -23,7 +23,7 @@ Clone the repository and run the app using Flutter.
 
 ## Development Progress
 
-In the early stages of development. Check the [Issues](link-to-issues) section for tasks.
+In the early stages of development. Check the [Issues](issues) section for tasks.
 
 ## Contributing
 
